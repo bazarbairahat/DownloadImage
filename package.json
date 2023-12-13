@@ -1,0 +1,19 @@
+{
+  "name": "downloadimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "fire": "^0.55.1",
+    "firebase": "^10.7.1"
+  }
+}
